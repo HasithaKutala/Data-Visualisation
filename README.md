@@ -1,5 +1,7 @@
 # AIRBNB ANALYSIS
 
+Tableau and PowerBI implementation
+
 Persona: 
 
 The user is an “Airbnb host” who plays a crucial role in the Airbnb ecosystem by renting their properties to guests looking for a place to stay.
